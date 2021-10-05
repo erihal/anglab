@@ -15,5 +15,5 @@
       "name": "res"
     }
   ],
-  "scriptFile": "../dist/menu/index.js"
+  "scriptFile": "../dist/pizza/index.js"
 }
